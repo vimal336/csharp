@@ -1,0 +1,15 @@
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.AssemblyInfoInputs.cache
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.AssemblyInfo.cs
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.csproj.CoreCompileInputs.cache
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.sourcelink.json
+D:\gitfolder\csharp\bin\Debug\net9.0\csharp.exe
+D:\gitfolder\csharp\bin\Debug\net9.0\csharp.deps.json
+D:\gitfolder\csharp\bin\Debug\net9.0\csharp.runtimeconfig.json
+D:\gitfolder\csharp\bin\Debug\net9.0\csharp.dll
+D:\gitfolder\csharp\bin\Debug\net9.0\csharp.pdb
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.dll
+D:\gitfolder\csharp\obj\Debug\net9.0\refint\csharp.dll
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.pdb
+D:\gitfolder\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
+D:\gitfolder\csharp\obj\Debug\net9.0\ref\csharp.dll
