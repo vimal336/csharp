@@ -17,6 +17,7 @@ class Program
         string name = "vimal s";
         string number = 12;
         Console.WriteLine(name);
+        Console.WriteLine(number);
     }
 }
 
