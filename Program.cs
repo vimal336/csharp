@@ -14,7 +14,7 @@ using System;
 class Program
 {
     static void Main(){
-        string name = "s";
+        string name = "vimal s";
         Console.WriteLine(name);
     }
 }
