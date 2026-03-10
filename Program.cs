@@ -11,5 +11,7 @@
 
 using System;
 
-
+using Program{
+    
+}
 
