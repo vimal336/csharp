@@ -12,6 +12,9 @@
 using System;
 
 using Program{
-    
+    Public static void Main(){
+        string name = "vimal";
+        console.WriteLine(name);
+    }
 }
 
