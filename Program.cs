@@ -8,25 +8,25 @@
 //     }
 // }
 
-using System;
+// using System;
 
-namespace MyApplication
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      // Type your username and press enter
-      Console.WriteLine("Enter username:");
+// namespace MyApplication
+// {
+//   class Program
+//   {
+//     static void Main(string[] args)
+//     {
+//       // Type your username and press enter
+//       Console.WriteLine("Enter username:");
 
-      // Create a string variable and get user input from the keyboard and store it in the variable
-      string userName = Console.ReadLine();
+//       // Create a string variable and get user input from the keyboard and store it in the variable
+//       string userName = Console.ReadLine();
 
-      // Print the value of the variable (userName), which will display the input value
-      Console.WriteLine("Username is: " + userName);
-    }
-  }
-}
+//       // Print the value of the variable (userName), which will display the input value
+//       Console.WriteLine("Username is: " + userName);
+//     }
+//   }
+// }
 
 
 //Variables
@@ -41,3 +41,22 @@ namespace MyApplication
 
 //string name = "vimal";
 
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      for (int i = 0; i < 10; i++) 
+      {
+        if (i == 4) 
+        {
+          continue;
+        }
+        Console.WriteLine(i);
+      }    
+    }
+  }
+}
