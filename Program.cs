@@ -75,9 +75,3 @@ namespace MyApplication
         if (i == 7) 
         {
           continue;
-        }
-        Console.WriteLine(i);
-      }    
-    }
-  }
-}
