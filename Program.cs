@@ -51,7 +51,7 @@ namespace MyApplication
     {
       for (int i = 0; i < 10; i++) 
       {
-        if (i == 7) 
+        if (i == 5) 
         {
           continue;
         }
@@ -60,11 +60,3 @@ namespace MyApplication
     }
   }
 }
-
-
-using System;
-
-namespace MyApplication
-{
-  class Program
-
