@@ -46,6 +46,16 @@ using System;
 
 //string name = "vimal";
 
+
+int a = 10;
+double b = 5.5;
+char c = 'A';
+string name = "Vimal";
+bool isActive = true;
+
+Console.WriteLine(a + " " + b + " " + c + " " + name + " " + isActive);
+
+
 using System;
 
 namespace MyApplication
