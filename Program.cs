@@ -1,4 +1,9 @@
-﻿using System;
+﻿// RUN COMMAND
+
+// Project Folder => dotnet run
+
+
+using System;
 
 // class Program{
 //        static void Main(){
