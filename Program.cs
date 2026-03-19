@@ -39,7 +39,7 @@
 // string - stores text, such as "Hello World". String values are surrounded by double quotes
 // bool - stores values with two states: true or false
 
-//string name = "vimals";
+//string name = "vimal";
 
 using System;
 
