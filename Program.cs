@@ -2,8 +2,42 @@
 
 // Project Folder => dotnet run
 
+//practice
+
+// Even/Odd checker
+
+// Prime number program
+
+// Factorial program
+
+// Fibonacci series
+
+// Reverse a string
+
+// Palindrome check
+
+// Sum of digits
+
+// Largest of 3 numbers
+
+// Simple calculator
+
+// Student grade system
+
+//Hello World
 
 using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+
+
+//using System;
 
 // class Program{
 //        static void Main(){
@@ -13,25 +47,12 @@ using System;
 //     }
 // }
 
-// using System;
+//User Input
 
-// namespace MyApplication
-// {
-//   class Program
-//   {
-//     static void Main(string[] args)
-//     {
-//       // Type your username and press enter
-//       Console.WriteLine("Enter username:");
+Console.Write("Enter your name: ");
+string name = Console.ReadLine();
 
-//       // Create a string variable and get user input from the keyboard and store it in the variable
-//       string userName = Console.ReadLine();
-
-//       // Print the value of the variable (userName), which will display the input value
-//       Console.WriteLine("Username is: " + userName);
-//     }
-//   }
-// }
+Console.WriteLine("Hello " + name);
 
 
 //Variables
@@ -46,7 +67,6 @@ using System;
 
 //string name = "vimal";
 
-
 int a = 10;
 double b = 5.5;
 char c = 'A';
@@ -55,6 +75,31 @@ bool isActive = true;
 
 Console.WriteLine(a + " " + b + " " + c + " " + name + " " + isActive);
 
+//operators
+
+int a = 10, b = 5;
+
+Console.WriteLine(a + b); // Add
+Console.WriteLine(a - b); // Subtract
+Console.WriteLine(a * b); // Multiply
+Console.WriteLine(a / b); // Divide
+Console.WriteLine(a % b); // Modulus
+
+//if else
+
+int age = 18;
+
+if (age >= 18)
+{
+    Console.WriteLine("Eligible to vote");
+}
+else
+{
+    Console.WriteLine("Not eligible");
+}
+
+
+// loop
 
 using System;
 
