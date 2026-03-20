@@ -89,7 +89,7 @@ Console.WriteLine(a % b); // Modulus
 
 int age = 18;
 
-if (age >= 17)
+if (age >= 18)
 {
     Console.WriteLine("Eligible to vote");
 }
