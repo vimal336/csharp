@@ -95,7 +95,7 @@ if (age >= 18)
 }
 else
 {
-    Console.WriteLine("Not eligible");
+    Console.WriteLine("Not Eligible to");
 }
 
 
