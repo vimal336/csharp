@@ -95,7 +95,7 @@ if (age >= 18)
 }
 else
 {
-    Console.WriteLine("Not Eligible to");
+    Console.WriteLine("Not Eligible to vote");
 }
 
 
