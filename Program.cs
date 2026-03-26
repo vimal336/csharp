@@ -87,7 +87,7 @@ Console.WriteLine(a % b); // Modulus
 
 //if else
 
-int age = 12;
+int age = 14;
 
 if (age >= 18)
 {
