@@ -91,7 +91,7 @@ int age = 16;
 
 if (age >= 18)
 {
-    Console.WriteLine("Eligible for vote");
+    Console.WriteLine("Eligible to vote");
 }
 else
 {
