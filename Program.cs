@@ -98,8 +98,12 @@ else
     Console.WriteLine("Not Eligible to vote");
 }
 
-if
+if(number%2==0){
 
+}
+else{
+  
+}
 
 
 
