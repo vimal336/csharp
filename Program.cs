@@ -98,6 +98,11 @@ else
     Console.WriteLine("Not Eligible to vote");
 }
 
+if
+
+
+
+
 
 // loop
 
