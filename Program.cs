@@ -26,15 +26,15 @@
 
 //Hello World
 
-using System;
+// using System;
 
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+// class Program
+// {
+//     static void Main()
+//     {
+//         Console.WriteLine("Hello, World!");
+//     }
+// }
 
 
 //using System;
@@ -49,10 +49,10 @@ class Program
 
 //User Input
 
-Console.Write("Enter your name: ");
-string name = Console.ReadLine();
+// Console.Write("Enter your name: ");
+// string name = Console.ReadLine();
 
-Console.WriteLine("Hello " + name);
+// Console.WriteLine("Hello " + name);
 
 
 //Variables
@@ -67,36 +67,36 @@ Console.WriteLine("Hello " + name);
 
 //string name = "vimal";
 
-int a = 10;
-double b = 5.5;
-char c = 'A';
-string name = "Vimal";
-bool isActive = true;
+// int a = 10;
+// double b = 5.5;
+// char c = 'A';
+// string name = "Vimal";
+// bool isActive = true;
 
-Console.WriteLine(a + " " + b + " " + c + " " + name + " " + isActive);
+// Console.WriteLine(a + " " + b + " " + c + " " + name + " " + isActive);
 
 //operators
 
-int a = 10, b = 5;
+// int a = 10, b = 5;
 
-Console.WriteLine(a + b); // Add
-Console.WriteLine(a - b); // Subtract
-Console.WriteLine(a * b); // Multiply
-Console.WriteLine(a / b); // Divide
-Console.WriteLine(a % b); // Modulus
+// Console.WriteLine(a + b); // Add
+// Console.WriteLine(a - b); // Subtract
+// Console.WriteLine(a * b); // Multiply
+// Console.WriteLine(a / b); // Divide
+// Console.WriteLine(a % b); // Modulus
 
 //if else
 
-int age = 15;
+// int age = 15;
 
-if (age >= 18)
-{
-    Console.WriteLine("Eligible to vote");
-}
-else
-{
-    Console.WriteLine("Not Eligible to vote");
-}
+// if (age >= 18)
+// {
+//     Console.WriteLine("Eligible to vote");
+// }
+// else
+// {
+//     Console.WriteLine("Not Eligible to vote");
+// }
 
 if(number%2==0){
 Console.WriteLine("even");
@@ -110,22 +110,22 @@ Console.WriteLine("odd");
 
 // loop
 
-using System;
+// using System;
 
-namespace MyApplication
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      for (int i = 0; i < 10; i++) 
-      {
-        if (i == 7) 
-        {
-          continue;
-        }
-        Console.WriteLine(i);
-      }    
-    }
-  }
-}
+// namespace MyApplication
+// {
+//   class Program
+//   {
+//     static void Main(string[] args)
+//     {
+//       for (int i = 0; i < 10; i++) 
+//       {
+//         if (i == 7) 
+//         {
+//           continue;
+//         }
+//         Console.WriteLine(i);
+//       }    
+//     }
+//   }
+// }
