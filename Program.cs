@@ -99,10 +99,10 @@ else
 }
 
 if(number%2==0){
-Console.WriteLine("even")
+Console.WriteLine("even");
 }
 else{
-
+Console.WriteLine("odd");
 }
 
 
