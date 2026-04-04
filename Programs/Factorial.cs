@@ -2,8 +2,8 @@ class Factorial
 {
     public static void Run()
     {
-        int n=2;
-        int fact = fac
-        Console.WriteLine("Factorial number program logic is here");
+        int fact=3;
+        int n = fact*fact-1;
+        Console.WriteLine(n);
     }
 }
