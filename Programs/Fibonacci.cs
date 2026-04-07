@@ -4,7 +4,7 @@ class Fibonacci
     {
         int fact=1;
         for(int i=1; i<=6;i++){
-            fact = fact *i;
+            fact = fact *;
         }
            Console.WriteLine(fact);
     }
