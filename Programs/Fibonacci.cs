@@ -2,10 +2,20 @@ class Fibonacci
 {
     public static void Run()
     {
-        int n=1 n1=1;
-        for(int i=1; i<=6;i++){
-            fact = fact *k;
+        int n = 5; // how many numbers to print
+
+        int a = 0;
+        int b = 1;
+
+        Console.Write(a + " " + b + " ");
+
+        for(int i = 2; i < n; i++)
+        {
+            int c = a + b;
+            Console.Write(c + " ");
+
+            a = b;
+            b = c;
         }
-           Console.WriteLine(fact);
     }
 }
