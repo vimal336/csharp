@@ -139,6 +139,6 @@ class Program
     {
         PrimeNumber.Run();
         Factorial.Run();
-        // Fibonacci.Run();
+        Fibonacci.Run();
     }
 }
