@@ -2,7 +2,7 @@ class Fibonacci
 {
     public static void Run()
     {
-        int n = 5; // how many numbers to print
+        int n = 7; // how many numbers to print
 
         int a = 0;
         int b = 1;
