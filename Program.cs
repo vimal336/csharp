@@ -140,5 +140,6 @@ class Program
         PrimeNumber.Run();
         Factorial.Run();
         Fibonacci.Run();
+        Reverse.Run();
     }
 }
