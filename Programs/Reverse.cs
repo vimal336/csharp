@@ -1,6 +1,8 @@
 class Reverse{
     public static void Run(){
-        myname string = "hello";
-        
+        string myname  = "hello";
+        string reversed = "";
+
+        for(int i=myname.length-1;i>=0;i--);
     }
 }
