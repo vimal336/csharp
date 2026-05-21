@@ -6,6 +6,6 @@ class Reverse{
                     reversed = reversed + myname[i];
                         Console.WriteLine(reversed);
         }
-       
+        Console.WriteLine(reversed);
     }
 }
