@@ -1,9 +1,9 @@
 class Reverse{
     public static void Run(){
         string myname  = "hello";
-        string reverse = "";
+        string reversed = "";
         for(int i=myname.Length-1;i>=0;i--){
-                    reversed = reverse + myname[i];
+                    reversed = reversed + myname[i];
                         Console.WriteLine(reverse);
         }
         Console.WriteLine(reverse);
