@@ -3,7 +3,7 @@ class Reverse{
         string myname  = "hello";
         string reverse = "";
         for(int i=myname.Length-1;i>=0;i--){
-                    reversed = reversed + myname[i];
+                    reversed = reverse + myname[i];
                         Console.WriteLine(reverse);
         }
         Console.WriteLine(reverse);
