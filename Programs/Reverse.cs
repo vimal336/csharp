@@ -1,11 +1,11 @@
 class Reverse{
     public static void Run(){
         string myname  = "hello";
-        string reverseddata = "";
+        string reverse = "";
         for(int i=myname.Length-1;i>=0;i--){
                     reversed = reversed + myname[i];
-                        Console.WriteLine(reversed);
+                        Console.WriteLine(reverse);
         }
-        Console.WriteLine(reverseddata);
+        Console.WriteLine(reverse);
     }
 }
