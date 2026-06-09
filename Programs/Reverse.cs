@@ -1,6 +1,6 @@
 class Reverse{
     public static void Run(){
-        string myname  = "hello C sharp";
+        string myname  = "hello C Sharp";
         string reversed = "";
         for(int i=myname.Length-1;i>=0;i--){
                     reversed = reversed + myname[i];
