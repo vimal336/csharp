@@ -8,6 +8,6 @@ class Reverse{
                         Console.WriteLine(reversed);
                          Console.WriteLine(reversed);
         }
-        Console.WriteLine(revers);
+        Console.WriteLine(reverse);
     }
 }
