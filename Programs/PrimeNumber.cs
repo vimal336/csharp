@@ -13,7 +13,7 @@ class PrimeNumber
             }
         }
 
-        if(count == 2)
+        if(count == 3)
         {
             Console.WriteLine("Prime number");
         }
