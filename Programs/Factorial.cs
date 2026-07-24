@@ -7,6 +7,6 @@ class Factorial
             fact = fact *i;
               Console.WriteLine(fact);
         }
-        Console.WriteLine(fact);
+        //Console.WriteLine(fact);
     }
 }
