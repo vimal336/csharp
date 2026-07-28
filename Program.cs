@@ -141,7 +141,7 @@ class Program
         Factorial.Run();
         Fibonacci.Run();
         PrimeNumber.Run();
-        Palindrome.Run()
+        Palindrome.Run();
         Reverse.Run();
     }
 }
