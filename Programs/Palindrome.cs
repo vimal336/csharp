@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public class Solution
+public class Palindrome
 {
     public bool IsPalindrome(string s)
     {

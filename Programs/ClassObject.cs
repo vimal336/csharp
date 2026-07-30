@@ -4,13 +4,13 @@ class Car
 
     public void Show()
     {
-        Console.WriteLine("Brand: " + brand);
+        Console.WriteLine("Brandname: " + brand);
     }
 }
 
-class Program
+class ClassObject
 {
-    static void Main()
+    public static void Run()
     {
         Car c = new Car();
         c.brand = "BMW";
