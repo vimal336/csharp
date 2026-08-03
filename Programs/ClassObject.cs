@@ -13,7 +13,7 @@ class ClassObject
     public static void Run()
     {
         Car c = new Car();
-        c.brand = "BMW, AUDI";
+        c.brand = "BMW AUDI";
         c.Show();
     }
 }
