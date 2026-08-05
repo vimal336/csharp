@@ -4,7 +4,7 @@ class Car
 
     public void Show()
     {
-        Console.WriteLine("Brandnam: " + brand);
+        Console.WriteLine("Brandname: " + brand);
     }
 }
 
