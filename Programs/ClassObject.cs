@@ -1,7 +1,5 @@
-
-
 // The class
-// class MyClass
+class MyClass
 {
   // Class members
   string color = "red";        // field
