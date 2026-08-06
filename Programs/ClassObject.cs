@@ -14,8 +14,8 @@ class ClassObject
 {
     public static void Run()
     {
-        Car c = new Car();
-        c.brand = "AUDI, BMW";
-        c.Show();
+        MyClass mycls = new MyClass();
+        mycls = "AUDI, BMW";
+        mycls.Show();
     }
 }
