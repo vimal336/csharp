@@ -6,7 +6,7 @@ class MyClass
   int maxSpeed = 250;          // field
   public void fullThrottle()   // method
   {
-    Console.WriteLine("This car car is as fast as it can!");
+    Console.WriteLine"This car is as fast as it can!";
   }
 }
 
