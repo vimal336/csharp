@@ -15,7 +15,7 @@ class ClassObject
     public static void Run()
     {
         MyClass mycls = new MyClass();
-        mycls = "audi";
+        mycls = "uaudi";
         mycls.Show();
     }
 }
