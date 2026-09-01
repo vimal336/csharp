@@ -8,6 +8,10 @@ class MyClass
   {
     Console.WriteLine"This car is as fast as it can!";
   }
+  public void halfThrottle()   // method
+  {
+    Console.WriteLine"This car is as slow as it can!";
+  }
 }
 
 class ClassObject
