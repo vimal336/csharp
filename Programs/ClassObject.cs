@@ -10,7 +10,7 @@ class MyClass
   }
   public void halfThrottle()   // method
   {
-    Console.WriteLine"This car is proper on the road!";
+    Console.WriteLine"This car is  on the road!";
   }
 }
 
