@@ -6,7 +6,7 @@ class Factorial
         for(int i=1; i<=6;i++){
             fact = fact *i;
               //Console.WriteLine(fact);
-                 //Console.WriteLine(fact);
+                 Console.WriteLine(fact);
         }
         Console.WriteLine(fact);
     }
