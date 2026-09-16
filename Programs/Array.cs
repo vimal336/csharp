@@ -1,8 +1,6 @@
 using System;
 
-namespace MyApplication
-{
-  class Program
+  class ArrayProgram
   {
     static void Main(string[] args)
     {
@@ -10,4 +8,3 @@ namespace MyApplication
       Console.WriteLine(cars[0]);
     }
   }
-}
