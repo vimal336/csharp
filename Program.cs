@@ -137,11 +137,13 @@ class Program
 {
     static void Main()
     {
-        ClassObject.Run();
         Factorial.Run();
         Fibonacci.Run();
+        ArrayProgram.Run();
         PrimeNumber.Run();
+        classObject.Run();
         //Palindrome.Run();
         Reverse.Run();
+        Animal.Run();
     }
 }
