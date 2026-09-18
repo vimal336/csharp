@@ -144,6 +144,6 @@ class Program
         classObject.Run();
         //Palindrome.Run();
         Reverse.Run();
-        Animal.Run();
+        //Animal.Run();
     }
 }
