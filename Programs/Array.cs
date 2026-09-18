@@ -8,6 +8,7 @@ using System;
       int[] numbers = {88, 99, 54, 23};
       Console.WriteLine(cars[1]);
       Console.WriteLine(cars.Length-1);
+      Array.Sort(cars);
       foreach(int num in numbers){
         Console.WriteLine(num);
       }
