@@ -143,6 +143,7 @@ class Program
         PrimeNumber.Run();
         classObject.Run();
         Constructor.Run();
+        Constructorvar.Run();
         //Palindrome.Run();
         Reverse.Run();
         //Animal.Run();
