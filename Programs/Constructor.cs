@@ -10,7 +10,7 @@ class Constructor
 
     public static void Run()
     {
-        // Creating an object calls the constructor automatically
+        //Creating an object calls the constructor automatically
         Constructor obj = new Constructor();
     }
 }
