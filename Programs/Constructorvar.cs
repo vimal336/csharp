@@ -14,7 +14,7 @@ class Constructorvar
 
     public static void Run()
     {
-        Constructorvar obj = new Constructorvar("Vimal", 27);
+        Constructorvar obj = new Constructorvar("VimalS", 27);
 
         Console.WriteLine(obj.name);
         Console.WriteLine(obj.age);
