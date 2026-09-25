@@ -6,7 +6,7 @@ class Constructorvar
     int age;
 
     // Parameterized constructor
-    public Constructor(string n, int a)
+    public Constructorvar(string n, int a)
     {
         name = n;
         age = a;
@@ -14,7 +14,7 @@ class Constructorvar
 
     public static void Run()
     {
-        Constructor obj = new Constructor("Vimal", 25);
+        Constructorvar obj = new Constructorvar("Vimal", 27);
 
         Console.WriteLine(obj.name);
         Console.WriteLine(obj.age);
