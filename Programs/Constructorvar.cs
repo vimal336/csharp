@@ -18,6 +18,6 @@ class Constructorvar
 
         Console.WriteLine(obj.name);
         Console.WriteLine(obj);
-        Console.WriteLine(obj.age.);
+        Console.WriteLine(obj);
     }
 }
