@@ -18,6 +18,6 @@ class Constructorvar
 
         Console.WriteLine(obj);
         Console.WriteLine(obj);
-        Console.WriteLine(obj.);
+        Console.WriteLine(obj.name);
     }
 }
