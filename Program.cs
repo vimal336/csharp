@@ -147,5 +147,6 @@ class Program
         //Palindrome.Run();
         Reverse.Run();
         //Animal.Run();
+        Test.Run();
     }
 }
