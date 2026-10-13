@@ -1,13 +1,10 @@
-class Reverse{
+class Test{
     public static void Run(){
-        string myname  = "helloC sharp";
-        string setname  = "dot net";
-        string reversed = "";
-        for(int i=myname.Length-1;i>=0;i--){
-                    reversed = reversed + myname[i];
-                        //Console.WriteLine(reversed);
-                         //Console.WriteLine(reversed);
-        }
-        Console.WriteLine(reversed);
+        
+    int a = 20;
+    int b = 70;
+    int sum = a +b;
+      Display obj = new Display();
+      obj.Show(sum);
     }
 }
