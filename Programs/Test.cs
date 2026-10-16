@@ -3,7 +3,7 @@ class Test{
         
     int a = 40;
     int b = 40;
-    int sum = a-b;
+    int sum = ab;
     Display obj = new Display();
     obj.Show(sum);
     }
