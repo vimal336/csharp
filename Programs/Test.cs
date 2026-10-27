@@ -1,7 +1,7 @@
 class Test{
     public static void Run(){
         
-    int a = 940;
+    int a = 90;
     int b = 900;
     int sum = a+b;
     Display obj = new Display();
