@@ -6,7 +6,7 @@ using System;
     {
       string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
       int[] numbers = {898, 99, 54, 23};
-      int[] smallbig = {001, 105, 2, 103};
+      int[] smallbig = {001, 105, 20, 103};
       //Console.WriteLine(cars[1]);
       //Console.WriteLine(cars.Length-1);
       Console.WriteLine(smallbig.Min());
