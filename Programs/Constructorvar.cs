@@ -14,7 +14,7 @@ class Constructorvar
 
     public static void Run()
     {
-        Constructorvar obj = new Constructorvar("Vimal.S ", 3);
+        Constructorvar obj = new Constructorvar("VimalS ", 3);
 
         Console.WriteLine(obj);
     }
