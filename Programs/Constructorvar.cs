@@ -16,6 +16,6 @@ class Constructorvar
     {
         Constructorvar obj = new Constructorvar("VimalS ", 3);
 
-        Console.WriteLine(obj);
+        Console.WriteLine(ob);
     }
 }
