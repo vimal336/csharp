@@ -6,7 +6,7 @@ class Constructorvar
     int age;
 
     // Parameterized constructor
-    public Constructorvar(string n, int a)
+    public Constructorvar(string b, int a)
     {
         name = n;
         age = a;
