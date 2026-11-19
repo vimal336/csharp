@@ -8,7 +8,7 @@ class Constructorvar
     // Parameterized constructor
     public Constructorvar(string n, int a)
     {
-        name = ;
+        name = n;
         age = a;
     }
 
