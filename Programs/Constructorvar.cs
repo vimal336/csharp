@@ -9,7 +9,7 @@ class Constructorvar
     public Constructorvar(string n, int a)
     {
         name = n;
-        age = a;
+        age = ;
     }
 
     public static void Run()
