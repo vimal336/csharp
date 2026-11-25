@@ -4,7 +4,7 @@ class Constructorvar
 {
     string name;
     int age;
-    int mynum;
+    int my;
 
     // Parameterized constructor
     public Constructorvar(string n, int a)
